@@ -1,6 +1,11 @@
 
 How to create a venv
+  # Windows
+   python -m venv .venv
+      # Windows
+   .venv\Scripts\activate
 How to activate 
+
 
 100+ Python challenging programming exercises
 
