@@ -2,6 +2,7 @@
 How to create a venv
   # Windows
    python -m venv .venv
+   python -m venv /path/to/new/virtual/environment
       # Windows
    .venv\Scripts\activate
 How to activate 
