@@ -1,16 +1,18 @@
-# Python-programming
-Python is a high-level, general-purpose, and very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting-edge technology in Software Industry.
+# Python-programming-exercises
 
-Python language is being used by almost all tech-giant companies like – Google, Amazon, Facebook, Instagram, Dropbox, Uber… etc.
+100+ Python challenge programming exercises.
 
-The biggest strength of Python is huge collection of standard library which can be used for the following:
+## 100+ Python Projects Challenge 
 
-Machine Learning
-GUI Applications (like Kivy, Tkinter, PyQt etc. )
-Web frameworks like Django (used by YouTube, Instagram, Dropbox)
-Image processing (like OpenCV, Pillow)
-Web scraping (like Scrapy, BeautifulSoup, Selenium)
-Test frameworks
-Multimedia
-Scientific computing
-Text processing and many more..
+https://github.com/zhiwehu/100_plus_Python_Projects_Challenge
+
+## A simple Python online IDE run in browser.
+
+Hey guys I just made a simple Python online IDE run in browser : https://github.com/zhiwehu/react-python-ide. It's free and opensource. Feel free to let me know if you have any issues.
+
+## Python comic
+
+Hey guys I just created a comic for learning Python if you like you could see it from here: https://zhixinfuture.com
+For now I just use Chinese if you like I could use English as well.
+
+![Python Comic](https://github.com/zhiwehu/Python-programming-exercises/blob/master/comic.png?raw=true)
